@@ -11,11 +11,11 @@ glob = ['*.lock.hcl','*.toml']
 [pr_description]
 generate_ai_title = true
 final_update_message = true
+enable_help_text=true
 extra_instructions="""\
 下記のルールに従ってください
 - 日本語を使用してください。
 - タイトルは、feat:, chore:, test:, fix:, docs:, style:, refactor:, perf: などのように、commitlintのパターンに従ってください。
-- 最後にpr-agentで実行できるコマンドを箇条書きで羅列してください。
 """
 
 [pr_reviewer]
