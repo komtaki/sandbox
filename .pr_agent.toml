@@ -15,7 +15,6 @@ extra_instructions="""\
 下記のルールに従ってください
 - 日本語を使用してください。
 - タイトルは、feat:, chore:, test:, fix:, docs:, style:, refactor:, perf: などのように、commitlintのパターンに従ってください。
-- 最後にpr-agentで実行できるコマンドを箇条書きで羅列してください。
 """
 
 [pr_reviewer]
