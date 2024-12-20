@@ -14,7 +14,6 @@ on:
     types:
       - created
       - edited
-  push:
 
 jobs:
   review:
