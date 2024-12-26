@@ -14,9 +14,9 @@ final_update_message = true
 enable_help_text=true
 extra_instructions="""\
 下記のルールに従ってください
-- 日本語を使用してください。
 - タイトルは、feat:, chore:, test:, fix:, docs:, style:, refactor:, perf: などのように、commitlintのパターンに従ってください。
 - すでにcommitlintのパターンに従ったタイトルの場合、そのまま出力してください。
+- 日本語を使用してください。
 """
 
 [pr_reviewer]
